@@ -32,3 +32,6 @@ node_modules
 
 # vim swap files
 .*.sw?
+
+# 1760002018
+package-lock.json
